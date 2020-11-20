@@ -12,7 +12,7 @@ A Exécuter avec Python3.
 
 Il faut avoir téléchargé et installé dans le path (cf : http://sametmax.com/ajouter-un-chemin-a-la-variable-denvironnement-path-sous-windows/ )  balabolka (cf : http://www.cross-plus-a.com/balabolka.htm , voir "Command Line Utility") et oggenc2 (cf : https://www.rarewares.org/ogg-oggenc.php ) et Python3.
 
-Pour installer python3, rendez-vous sur cette page https://www.python.org/downloads/
+Pour installer python3, rendez-vous sur cette page : https://www.python.org/downloads/ .
 
 Le but du programme est d'automatiser la conversion de plusieurs fichiers .txt à la fois, ce qui n'est pas possible avec la version avec interface graphique de Balabolka : (disponible ici : http://www.cross-plus-a.com/fr/balabolka.htm )
 
