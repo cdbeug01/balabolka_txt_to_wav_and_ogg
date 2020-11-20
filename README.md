@@ -58,9 +58,9 @@ Le programme a été testé uniquement sous Windows 7 en 2019 et 2020.
 
 Ne marche pas si le chemin ou les noms des fichiers contiennent des caractères non-ASCII.
 
-(Enlever notamment les accents (é, à, etc...)
+(Enlever notamment les accents (é, à, etc...))
 
-Si les fichiers en contiennent, ce n'est pas graves, en revanche. A condition que vous l'ayer enregistré en "ANSI"
+Si les fichiers en contiennent, ce n'est pas grave, en revanche. A condition que vous l'ayez enregistré en "ANSI".
 
-Pour ce faire, prenez un texte, copiez-le dans un Notepad.txt (installé par défault sous tous les Windows), puis enregistrez le fichier en veillant à ce que le format inqué à côté du nom du fichier dans la fenêtre d'enregistrement soit ANSI. L'extension doit être ".txt"
+Pour ce faire, prenez un texte, copiez-le dans un Notepad.txt (installé par défault sous tous les Windows), puis enregistrez le fichier en veillant à ce que le format indiqué à côté du nom du fichier dans la fenêtre d'enregistrement soit "ANSI". L'extension doit être ".txt"
 
