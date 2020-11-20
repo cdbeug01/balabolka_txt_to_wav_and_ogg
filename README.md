@@ -55,8 +55,12 @@ python3 balabolka_txt.py -v -r 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les
 ___
 
 Le programme a été testé uniquement sous Windows 7 en 2019 et 2020.
+
 Ne marche pas si le chemin ou les noms des fichiers contiennent des caractères non-ASCII.
+
 (Enlever notamment les accents (é, à, etc...)
-Si les fichiers en contiennent, ce n'est pas graves, en revanche. A condition que vous l'ayer enregistré en "ANIS"
+
+Si les fichiers en contiennent, ce n'est pas graves, en revanche. A condition que vous l'ayer enregistré en "ANSI"
+
 Pour ce faire, prenez un texte, copiez-le dans un Notepad.txt (installé par défault sous tous les Windows), puis enregistrez le fichier en veillant à ce que le format inqué à côté du nom du fichier dans la fenêtre d'enregistrement soit ANSI. L'extension doit être ".txt"
 
