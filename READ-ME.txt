@@ -1,0 +1,23 @@
+usage : prgm chemin <arguments>
+
+Arguments potentiels :
+
+-r : récursif
+	Convertit aussi les sous-dossiers.
+
+-wav :
+	Ne convertit pas en .ogg, mais seulement en .wav (contertit en .wav, puis en .ogg (avec suppression des .wav par la suite) par défaut).
+
+-t (entre -10 et 10 inclus) : 
+	Timbre de la voix (par défaut, 10)
+
+-v (entre -10 et 10 inclus) : 
+	Vitesse de la voix (par défaut, 1)
+
+Exemples de commandes : 
+
+python3 balabolka_txt.py -r "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
+
+python3 balabolka_txt.py -v 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
+
+python3 balabolka_txt.py -v -r 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
