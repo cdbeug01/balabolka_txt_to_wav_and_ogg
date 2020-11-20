@@ -33,8 +33,11 @@ ____
 
 Exemples de commandes : 
 
-python3 balabolka_txt.py -r "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir", 
-python3 balabolka_txt.py -v 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir", 
-python3 balabolka_txt.py -v -r 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir" ; 
+python3 balabolka_txt.py -r "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
+
+python3 balabolka_txt.py -v 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
+
+python3 balabolka_txt.py -v -r 2 "C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir"
+
 
 Le programme a été testé uniquement sous Windows 7 en 2019 et 2020.
