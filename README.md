@@ -33,7 +33,7 @@ ____
 
 Utilisation plus détaillée, avec des exemples : 
 
-Lorsque vous tapez des adresses, si elle contiennent des espaces, il faut ajouter des guillemets.
+Lorsque vous tapez des adresses, si elles contiennent des espaces, il faut ajouter des guillemets.
 Par exemple :  cd "C:\Users\Nom Utilisateur\Dossier contenant les fichiers a convertir"
 Sinon, ce n'est pas nécessaire (mais ça marche quand-même) :
 Par exemple : cd C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir
