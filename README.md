@@ -27,6 +27,7 @@ Renseignez-vous avant de télécharger des logiciels et de les installer. Les si
 Le programme est fait pour fonctionner sous Windows.
 
 Pour l'allumer, faîtes : "Menu démarrer", chercher l'invité de commandes (ou "cmd"), puis tapez "cd " suivie de l'adresse d'où se trouve le fichier "balabolka_txt.py" (voir dans la barre d'adresse de l'Explorateur de Fichiers). Puis tapez "cls&&python3 balabolka_txt.py", suivi de l'adresse de là où se trouvent les fichier à convertir.
+
 Des options peuvent être ajoutées dans la commande (voir le fichier READ-ME.txt)
 
 ____
@@ -34,8 +35,11 @@ ____
 Utilisation plus détaillée, avec des exemples : 
 
 Lorsque vous tapez des adresses, si elles contiennent des espaces, il faut ajouter des guillemets.
+
 Par exemple :  cd "C:\Users\Nom Utilisateur\Dossier contenant les fichiers a convertir"
+
 Sinon, ce n'est pas nécessaire (mais ça marche quand-même) :
+
 Par exemple : cd C:\Users\Nom_Utilisateur\Dossier_contenant_les_fichiers_a_convertir
 
 1) Ouvrir un terminal (ou invité de commandes)
