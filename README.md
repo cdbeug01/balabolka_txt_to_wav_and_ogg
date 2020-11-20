@@ -14,6 +14,8 @@ Pour installer python3, rendez-vous sur cette page https://www.python.org/downlo
 
 Le but du programme est d'automatiser la conversion de plusieurs fichiers .txt à la fois, ce qui n'est pas possible avec la version avec interface graphique de Balabolka : (disponible ici ) http://www.cross-plus-a.com/fr/balabolka.htm
 
+___
+
 Disclamers : 
 
 Le présent code n'est pas parfait. Le principe d'un bon travail en coding est de s'améliorer en itérant (en améliorant chaque fois un petit peu, par touche ce qui peut l'être)
@@ -27,6 +29,7 @@ Le programme est fait pour Fonctionner sous Windows.
 Pour l'allumer, faîtes Menu démarrer, chercher l'invité de commandes (ou "cmd"), puis tapez "cd " suivie de l'adresse d'où se trouve le fichier "balabolka_txt.py" (voir dans la barre d'adresse de l'explorateur de fichiers). Puis tapez "cls&&python3 balabolka_txt.py", suivi de l'adresse de là où se trouvent les fichier à convertir.
 Des options peuvent être ajoutée dans la commande (voir le fichier READ-ME)
 
+____
 
 Exemples de commandes : 
 
