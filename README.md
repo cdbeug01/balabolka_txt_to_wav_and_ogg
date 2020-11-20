@@ -14,7 +14,7 @@ Il faut avoir téléchargé et installé dans le path (cf : http://sametmax.com/
 
 Pour installer python3, rendez-vous sur cette page https://www.python.org/downloads/
 
-Le but du programme est d'automatiser la conversion de plusieurs fichiers .txt à la fois, ce qui n'est pas possible avec la version avec interface graphique de Balabolka : (disponible ici ) http://www.cross-plus-a.com/fr/balabolka.htm
+Le but du programme est d'automatiser la conversion de plusieurs fichiers .txt à la fois, ce qui n'est pas possible avec la version avec interface graphique de Balabolka : (disponible ici : http://www.cross-plus-a.com/fr/balabolka.htm )
 
 ___
 
