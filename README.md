@@ -83,8 +83,8 @@ J'ai remarqué que les fichiers qui contenaient plus de 300 000 charactères, en
 1) Pour calculer le nombre de charactères d'un fichier
 2) Pour séparer un fichier en plusieurs fichiers et les mettre dans un dossier temporaire créé pour l'occasion
 3) Les convertir séparément
-4) Refusionner les ichiers convertits en un seul fichier
-5) Effacer les fichiers créés sauf le résultat
+4) Refusionner les fichiers convertits en un seul fichier
+5) Effacer les fichiers créés (sauf le fichier résultat) et le dossier temporaire créé pour l'occasion
 
 J'en suis à l'étape 4. J'ai essayé d'utiliser FFMPEG, mais pas encore de résultats probants.
 Pour le moment, je n'ai pas encore mis en ligne les programmes des étapes 1) à 3) (d'ailleurs le programme balabolka_txt était initialement simplement destiné à faire l'étape 3), mais finalement, j'ai pensé qu'il serait utile en lui-même et je l'ai modifié en conséquences).
