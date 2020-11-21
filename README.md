@@ -74,3 +74,15 @@ Si les fichiers en contiennent, ce n'est pas grave, en revanche. A condition que
 
 Pour ce faire, prenez un texte, copiez-le dans un Notepad.txt (installé par défault sous tous les Windows), puis enregistrez le fichier en veillant à ce que le format indiqué à côté du nom du fichier dans la fenêtre d'enregistrement soit "ANSI". L'extension doit être ".txt"
 
+___
+
+A noter : j'ai remarqué que les fichiers qui contenaient plus de 300 000 charactères, environs, n'étaient pas convertis jusqu'au bout (bien que le programme ne s'interrompait pas et que la convertion durait très longtemps). C'est dû au programme Balabolka. J'ai commencé à créer des programmes (pour tenter de résoudre ce problème) :
+
+1) Pour calculer le nombre de charactères d'un fichier
+2) Pour séparer un fichier en plusieurs fichiers
+3) Les convertir séparément et les mettre dans un fossier temporaire créé pour l'occasion
+4) Refusionner les ichiers convertits en un seul fichier
+5) Effacer les fichiers créés sauf le résultat
+
+J'en suis à l'étape 4. J'ai essayé d'utiliser FFMPEG, mais pas encore de résultats probants.
+Pour le moment, je n'ai pas encore mis en ligne les programmes des étapes 1) à 3) (d'ailleurs le programme balabolka_txt était initialement simplement destiné à faire l'étape 3), mais finalement, j'ai pensé qu'il serait utile en lui-même et je l'ai modifié en conséquences).
