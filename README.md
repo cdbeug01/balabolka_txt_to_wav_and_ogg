@@ -76,7 +76,9 @@ Pour ce faire, prenez un texte, copiez-le dans un Notepad.txt (installé par dé
 
 ___
 
-A noter : j'ai remarqué que les fichiers qui contenaient plus de 300 000 charactères, environs, n'étaient pas convertis jusqu'au bout (bien que le programme ne s'interrompait pas et que la convertion durait très longtemps). C'est dû au programme Balabolka. J'ai commencé à créer des programmes (pour tenter de résoudre ce problème) :
+A noter : 
+
+J'ai remarqué que les fichiers qui contenaient plus de 300 000 charactères, environs, n'étaient pas convertis jusqu'au bout (bien que le programme ne s'interrompait pas et que la convertion durait très longtemps). C'est dû au programme Balabolka. J'ai commencé à créer des programmes (pour tenter de résoudre ce problème) :
 
 1) Pour calculer le nombre de charactères d'un fichier
 2) Pour séparer un fichier en plusieurs fichiers et les mettre dans un dossier temporaire créé pour l'occasion
